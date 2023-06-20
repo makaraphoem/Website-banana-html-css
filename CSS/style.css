@@ -140,7 +140,7 @@ fieldset{
 .photo-banana{
     margin-top: 80px;
     height: 450px;
-    background: url(../flatten.jpg)  no-repeat;
+    background: url(../image/flatten.jpg)  no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
